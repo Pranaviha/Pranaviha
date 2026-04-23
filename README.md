@@ -1,16 +1,85 @@
-## Hi there 👋
+# ✨ Hi, I'm Pranaviha
 
-<!--
-**Pranaviha/Pranaviha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Developer | 🚀 Future Full-Stack Engineer | 📚 Lifelong Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌸 About Me
+
+* 🎓 Currently building strong foundations in **Data Structures & Algorithms**
+* 🌐 Exploring **Frontend + Backend Development**
+* 🧠 Love solving problems and understanding *how things work under the hood*
+* 📈 Working towards becoming **interview-ready for top tech companies**
+* ⚡ Fun fact: I enjoy turning ideas into real projects
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+`C` `C++` `Java` `Python` `JavaScript`
+
+### 🌐 Frontend
+
+`HTML` `CSS` `React`  `Javascript`      
+
+### ⚙️ Backend (Learning)
+
+`Node.js`
+
+### 🗄️ Databases
+
+`MySQL` `MongoDB`
+
+### 🔧 Tools
+
+`Git` `GitHub` `VS Code`
+
+---
+
+## 📊 GitHub Stats
+
+---
+
+## 💡 What I'm Currently Working On
+
+* 🔹 Practicing **DSA daily**
+* 🔹 Building **React projects with clean UI**
+* 🔹 Learning **backend fundamentals**
+* 🔹 Preparing for **technical interviews**
+
+---
+
+## 🚀 Featured Projects
+
+*(Update this section as you build projects)*
+
+* 🔸 **Personal Dashboard App** – Notes + To-do + Weather + Clock
+* 🔸 **Markdown to Slides Tool**
+* 🔸 **Calculator Web App (Python Backend + JS Frontend)**
+
+---
+
+## 🎯 2026 Goals
+
+* ✅ Master DSA patterns
+* 🚀 Build 5+ strong full-stack projects
+* 💼 Crack internships / product-based roles
+* 🌟 Create a standout developer portfolio
+
+---
+
+## 📫 Let's Connect
+
+* 💼 LinkedIn: *Add your link here*
+* 📧 Email: *Add your email here*
+
+---
+
+## 🌈 A Little Philosophy
+
+> *“Consistency beats motivation. Small progress every day builds big results.”*
+
+---
+
