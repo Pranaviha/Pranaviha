@@ -1,6 +1,6 @@
 # ✨ Hi, I'm Pranaviha
 
-💻 Aspiring Software Developer | 🚀 Future Full-Stack Engineer | 📚 Lifelong Learner
+💻 **Aspiring Software Developer** | 🚀 **Future Full-Stack Engineer** | 📚 **Lifelong Learner**
 
 ---
 
@@ -18,11 +18,11 @@
 
 ### 💻 Languages
 
-`C` `C++` `Java` `Python` `JavaScript`
+`C` `C++` `Java` `Python` `JavaScript(ES6)`
 
 ### 🌐 Frontend
 
-`HTML` `CSS` `React`  `Javascript`      
+`HTML5` `CSS3` `React` 
 
 ### ⚙️ Backend (Learning)
 
@@ -34,20 +34,29 @@
 
 ### 🔧 Tools
 
-`Git` `GitHub` `VS Code`
+`Git` `GitHub` `VS Code` `Eclipse`
 
 ---
 
 ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranaviha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Pranaviha&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranaviha&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
 ---
 
 ## 💡 What I'm Currently Working On
 
 * 🔹 Practicing **DSA daily**
-* 🔹 Building **Projects with clean UI**
+* 🔹 Building **React projects with clean UI**
 * 🔹 Learning **backend fundamentals**
-* 🔹 Preparing for **Technical Interviews**
+* 🔹 Preparing for **technical interviews**
 
 ---
 
@@ -72,8 +81,8 @@
 
 ## 📫 Let's Connect
 
-* 💼 LinkedIn: www.linkedin.com/in/pranaviha-g-p
-* 📧 Email: pranaviha2002@gmail.com
+* 💼 LinkedIn: *www.linkedin.com/in/pranaviha-g-p*
+* 📧 Email: *pranaviha2002@gmail.com*
 
 ---
 
@@ -82,4 +91,3 @@
 > *“Consistency beats motivation. Small progress every day builds big results.”*
 
 ---
-
