@@ -26,7 +26,7 @@
 
 ### ⚙️ Backend (Learning)
 
-`Node.js`
+`Java` `Python`
 
 ### 🗄️ Databases
 
@@ -45,9 +45,9 @@
 ## 💡 What I'm Currently Working On
 
 * 🔹 Practicing **DSA daily**
-* 🔹 Building **React projects with clean UI**
+* 🔹 Building **Projects with clean UI**
 * 🔹 Learning **backend fundamentals**
-* 🔹 Preparing for **technical interviews**
+* 🔹 Preparing for **Technical Interviews**
 
 ---
 
@@ -72,8 +72,8 @@
 
 ## 📫 Let's Connect
 
-* 💼 LinkedIn: *Add your link here*
-* 📧 Email: *Add your email here*
+* 💼 LinkedIn: www.linkedin.com/in/pranaviha-g-p
+* 📧 Email: pranaviha2002@gmail.com
 
 ---
 
