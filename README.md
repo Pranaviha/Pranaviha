@@ -62,8 +62,6 @@
 
 ## 🚀 Featured Projects
 
-*(Update this section as you build projects)*
-
 * 🔸 **Personal Dashboard App** – Notes + To-do + Weather + Clock
 * 🔸 **Markdown to Slides Tool**
 * 🔸 **Calculator Web App (Python Backend + JS Frontend)**
